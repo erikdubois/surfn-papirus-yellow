@@ -2,6 +2,8 @@
 
 ## 2026.06.23 — Papirus yellow folder colour
 
+**Install docs:** the README install section now lists the meta packages (top-level `*-icons-meta`, plus the group meta where applicable) alongside the per-variant `*-icons-git` package — replacing the outdated single `pacman -S` line.
+
 ### What Changed
 
 Initial repo. The **Surfn-Papirus-Yellow** folder icons were recoloured to **yellow** from the Papirus icon theme
